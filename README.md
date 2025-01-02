@@ -1,1 +1,1 @@
-# CODSOFT
+# Machine Learning Projects
